@@ -1,3 +1,1 @@
-Algo por aqui
-
-Algo por alla
+Algo por aqui, y por alla.
